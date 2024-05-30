@@ -1,5 +1,5 @@
 {
-  "name": "cli-config",
+  "name": "cli-config-v1",
   "version": "1.0.0",
   "description": "A cli tool to help generate a now.sh configuration file.",
   "main": "src/index.js",
